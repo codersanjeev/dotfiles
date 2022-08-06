@@ -1,11 +1,10 @@
 {
     "debug": false,
-     "autoformat_on_save": true,
-    "user_defined_syntax_mode_mapping": {
-    },
+    "autoformat_on_save": true,
+    "user_defined_syntax_mode_mapping": {},
     "options_default": {
         "style": null,
-  "indent": "tab",
+        "indent": "tab",
         "indent-spaces": null,
         "attach-namespaces": false,
         "attach-classes": false,
